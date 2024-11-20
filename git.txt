@@ -1,7 +1,7 @@
 
 
 1. Configuration of Git Client on our laptop (Just one time) 
-   1. verify the the git installation
+   1. verify the the git installation.
      - $ git --version
    2. verify your username and email in the configuration
      - $ git config --list  (hit Q to leave the panel)
