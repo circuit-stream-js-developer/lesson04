@@ -21,7 +21,7 @@
       - $ git status
         - to check the status of our repo
       - $ git init
-        - MAKE SURE you run git init in the ROOT folder
+        - MAKE SURE you run git init in the ROOT folder.
         - run this just one time with NEW PROJECTS, if you run it with an old project, you
           will the your git history.
       - $ git add .
@@ -29,7 +29,7 @@
       - $ git commit -m "first commit" 
       
    3. Link Remote and Local Repository
-      - $ git remote add origin https://github.com/bptn-java-developer/bptn-05-java.git
+      - $ git remote add origin git remote add origin https://github.com/circuit-stream-js-developer/lesson04.git
         - copy the URL from GitHub.
       
    4. Upload our project 
